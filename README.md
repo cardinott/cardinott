@@ -24,7 +24,7 @@ de aprender e utilizar meus conhecimentos para criar soluções.
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">>
-  <img align="right" alt="Rafa-yoda" height="180em" src="https://cdn.discordapp.com/attachments/1272245213905162353/1399029615040790695/download_3.gif?ex=6887835c&is=688631dc&hm=f7e05187cf4425327870714543b3cb8d4bc654f82110bf80412101b8fa908672&">
+  <img align="right" alt="Rafa-yoda" height="180em" src="https://cdn.discordapp.com/attachments/1272245213905162353/1399046996207210638/download_4.gif?ex=6887938c&is=6886420c&hm=9e9d647c8b29f704b95b87990f336f2446b07a6b0e8c61a6ef39a94cd1fdd14f&">
 
 </div>
 
