@@ -2,8 +2,8 @@
 
 <div style="display: inline_block">
  Atualmente sou estudande de Engenharia da Computação na Universidade Veiga de Almeida,<br>
-quinto período. Me interesso por front e análise de dados. Minhas principais linguagens são
-JavaScript e Python. Constantemente procuro me atualizar na área da tecnologia, pois gosto
+quinto período. Me interesso por front e análise de dados. Minhas principais linguagens são<br>
+JavaScript e Python. Constantemente procuro me atualizar na área da tecnologia, pois gosto<br>
 de aprender e utilizar meus conhecimentos para criar soluções.
  <img align="right" alt="Rafa-yoda" height="180em" src="https://cdn.discordapp.com/attachments/1272245213905162353/1399029615040790695/download_3.gif?ex=6887835c&is=688631dc&hm=f7e05187cf4425327870714543b3cb8d4bc654f82110bf80412101b8fa908672&"
 </div>
