@@ -27,5 +27,5 @@
   <a href="https://www.linkedin.com/in/beatriz-cardinot-478aab212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake Game](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/{cardinott}/{cardinott}/output/github-contribution-grid-snake.svg)
 
