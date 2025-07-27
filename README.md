@@ -31,6 +31,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/cardinott/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/cardinott/output/github-contribution-grid-snake.svg">
   </picture>
-
+![Snake Game](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake.svg)
 </div>
 
