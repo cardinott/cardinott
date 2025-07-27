@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Beatriz Cardinot.
 
 <div style="display: inline_block">
- Atualmente sou estudande de Engenharia da Computação na Universidade Veiga de Almeida,
+ Atualmente sou estudande de Engenharia da Computação na Universidade Veiga de Almeida,<br>
 quinto período. Me interesso por front e análise de dados. Minhas principais linguagens são
 JavaScript e Python. Constantemente procuro me atualizar na área da tecnologia, pois gosto
 de aprender e utilizar meus conhecimentos para criar soluções.
